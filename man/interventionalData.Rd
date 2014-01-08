@@ -11,7 +11,21 @@ A data frame with 32 observations on the following 19 variables.
 \item{\code{Inhibitor}}{a factor with levels describing the inhibitors used in each sample.}
 \item{\code{Stimuli}}{a factor with levels describing the stimulus used in each sample.}
 \item{\code{Timepoint}}{a integer vector (starting from zero) representing the time index of each sample.}
-\item{\code{EGFR}, \code{SRC}, \code{STAT5}, \code{Mek}, \code{MAPK}, \code{p90RSK}, \code{PDK}, \code{AKT}, \code{GSK}, \code{TSC2}, \code{BAD}, \code{mTOR}, \code{p70S6K}, \code{S6}, \code{FOXO3}}{The remaining columns give the log-concentrations of each node.}
+\item{\code{EGFR}}{The remaining columns give the log-concentrations of each node.}
+\item{\code{SRC}}{}
+\item{\code{STAT5}}{}
+\item{\code{Mek}}{}
+\item{\code{MAPK}}{}
+\item{\code{p90RSK}}{}
+\item{\code{PDK}}{}
+\item{\code{AKT}}{}
+\item{\code{GSK}}{}
+\item{\code{TSC2}}{}
+\item{\code{BAD}}{}
+\item{\code{mTOR}}{}
+\item{\code{p70S6K}}{}
+\item{\code{S6}}{}
+\item{\code{FOXO3}}{}
 }
 }
 \source{Simulated by Simon Spencer.}
