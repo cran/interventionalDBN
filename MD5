@@ -1,4 +1,4 @@
-47e1dcc233fda3bb7d30d01957b67609 *DESCRIPTION
+e1db05feb209adfae73a0a8dbce136d5 *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
 53e2e71b2a08e9f1cef7424ad3097500 *R/countGraphs.R
 d3193b6ee36bc54dc771add9f21f026a *R/formatData.R
@@ -11,11 +11,11 @@ f6aacf157cb487a00fcbe2c8837f0e00 *R/nxt.R
 24617b92b86f6266c5f03ed3bcede9ea *R/warshall.R
 7e307e39214a774adcdcda3dd18ff822 *data/interventionalData.rda
 d52610ebb0fc3b14b0a7b0865cf9f071 *data/trueMatrix.rda
-d409c044392339a1c98a6c6ea84648c3 *man/countGraphs.Rd
+7e858db74a6499b47bcfd630d9033f13 *man/countGraphs.Rd
 f0821b75eceb8cdeac571f359a354e3c *man/formatData.Rd
 45fb076afcf62d301593190b33530fcb *man/interventionEffects.Rd
-236075cd6e70ab91df895455339bdd07 *man/interventionalDBN-package.Rd
-9aa5cbda5cc75a0dd7f4a4ccbdd2f37d *man/interventionalData.Rd
+80f7dbcc6b9f52d1f4bad65e0e3e34d1 *man/interventionalDBN-package.Rd
+1033daf238d4f8c6ef400ae5424854c1 *man/interventionalData.Rd
 d80034745f38aed14b72d913ddd0bbb4 *man/interventionalInference.Rd
 337395906df854b42316a28332597d5e *man/interventionalInferenceAdvanced.Rd
 78856bcdf144658a098b79dd52f27ee8 *man/linesROC.Rd

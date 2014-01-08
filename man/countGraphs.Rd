@@ -8,8 +8,8 @@
   \item{nodes}{A positive integer specifying the number of nodes in the network.}
   \item{max.indeg}{A positive integer specifying the in-degree restriction.}
 }
-\details{Nodes can be a parent to themselves. The number of possible networks is given by\cr
-\code{nodes*countGraphs(nodes,max.indeg)}.}
+\details{Nodes can be a parent to themselves. The number of possible networks is given by:\cr
+\verb{nodes*countGraphs(nodes,max.indeg)}}
 \value{Returns an integer given by \eqn{\sum_{i=0}^m{n \choose i}}{\sum_{i=0}^m{n \choose i}}, where \code{nodes}\eqn{=n} and \code{max.indegree}\eqn{=m}}
 %%\references{}
 \author{Simon Spencer}
